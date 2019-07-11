@@ -1,5 +1,4 @@
 #include <iostream>
-#include "Letter.h"
 
 using namespace std;
 
